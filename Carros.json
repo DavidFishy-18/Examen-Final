@@ -1,16 +1,1 @@
-[
-  {
-    "NPuertas": "4",
-    "NPasajeros": 5,
-    "NumeroP": "123PH23",
-    "Marca": "Honda",
-    "Modelo": "Crv"
-  },
-  {
-    "NPuertas": "4",
-    "NPasajeros": 4,
-    "NumeroP": "355GWJ7",
-    "Marca": "Toyota",
-    "Modelo": "Yaris"
-  }
-]
+[{"NPuertas":"4","NPasajeros":5,"NumeroP":"123PH23","Marca":"Honda","Modelo":"Crv"}]
