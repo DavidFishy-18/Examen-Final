@@ -1,0 +1,16 @@
+[
+  {
+    "NPuertas": "4",
+    "NPasajeros": 5,
+    "NumeroP": "123PH23",
+    "Marca": "Honda",
+    "Modelo": "Crv"
+  },
+  {
+    "NPuertas": "4",
+    "NPasajeros": 6,
+    "NumeroP": "234GHJ6",
+    "Marca": "Toyota",
+    "Modelo": "Corolla"
+  }
+]
