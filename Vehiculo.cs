@@ -10,5 +10,9 @@ namespace Examen_Final
         string numeroP;
         string marca;
         string modelo;
+
+        public string NumeroP { get => numeroP; set => numeroP = value; }
+        public string Marca { get => marca; set => marca = value; }
+        public string Modelo { get => modelo; set => modelo = value; }
     }
 }
